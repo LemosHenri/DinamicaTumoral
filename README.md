@@ -6,5 +6,10 @@ Este repositório esta destinado ao estudo de modelos de dinâmica populacional 
 
 Implementações feitas com as seguintes metodologias:
 - Diferenças Finitas (1D) (Método Clássico)
+- Diferenças Finitas (2D) (Método Clássico) (Em desenvolvimento)
 - Physics-Informed Neural Networks (Método Rede Neural)
 - DeepONet (Método Rede Neural)
+
+### Modelo Anderson
+
+Em desenvolvimento
